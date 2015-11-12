@@ -1,0 +1,22 @@
+{
+  "name": "text-player",
+  "version": "0.0.1",
+  "description": "A player that uses WebAudio to play the the text in a div",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plyer",
+    "text",
+    "midi",
+    "soundfont"
+  ],
+  "author": "Olle Svensson",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "lodash": "^3.10.1",
+    "soundfont-player": "^0.4.0"
+  }
+}
